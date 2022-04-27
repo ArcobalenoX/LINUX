@@ -1,0 +1,14 @@
+*.o
+*.out
+*.db
+*.doc
+*.pdf
+*/jpeg-9c/*
+*.avi
+*.mp3
+*.tar
+*.rar
+*.jpg
+*.png
+*.bmp
+*logs*
